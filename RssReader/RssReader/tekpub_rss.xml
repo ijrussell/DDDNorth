@@ -1,0 +1,633 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Tekpub TV</title>
+    <link>http://tekpub.com/shows</link>
+    <description>A feed for the recent episodes from TekpubTV</description>
+    <language>en-us</language>
+    <copyright>Copyright 2013 Massive Studios, Inc</copyright>
+    <lastBuildDate>Sat, 20 Oct 2012 01:16:17 -0000</lastBuildDate>
+    <image>
+      <url>http://tekpub.com/images/tekpub_tv_300.png</url>
+      <title>Tekpub TV</title>
+      <link>http://tekpub.com/shows</link>
+    </image>
+    <item>
+      <title>jQuery Garage, with Dave Ward: Firebombed: When Versions Collide</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/7/file.mp4?token=????</link>
+      <description>Rob's stuck again - this time with a seemingly ridiculous bug in Firefox of all things. The new Tekpub site looks great... except in certain Firefox browsers. It turns out that the jQuery isn't parsing the JSON properly... Batman to the rescue!</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/7/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Fri, 21 Jun 2013 03:23:16 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/7/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Rob's stuck again - this time with a seemingly ridiculous bug in Firefox of all things. The new Tekpub site looks great... except in certain Firefox browsers. It turns out that the jQuery isn't parsing the JSON properly... Batman to the rescue!</itunes:subtitle>
+      <itunes:summary>Rob's stuck again - this time with a seemingly ridiculous bug in Firefox of all things. The new Tekpub site looks great... except in certain Firefox browsers. It turns out that the jQuery isn't parsing the JSON properly... Batman to the rescue!</itunes:summary>
+    </item>
+    <item>
+      <title>Mystery Code Theater, with Ayende Rahien: Massive, Part 2: &quot;FINISH HIM&quot;</title>
+      <link>http://delivery.tekpub.com/shows/download/mct/6/file.mp4?token=????</link>
+      <description>In this episode Ayende continues reviewing Rob's data-access library, Massive. We talk about the importance of an explicit API and whether dynamics in C# can convey a usable API to the developer.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/mct/6/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 01 Jun 2013 01:37:27 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/mct/6/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>In this episode Ayende continues reviewing Rob's data-access library, Massive. We talk about the importance of an explicit API and whether dynamics in C# can convey a usable API to the developer.</itunes:subtitle>
+      <itunes:summary>In this episode Ayende continues reviewing Rob's data-access library, Massive. We talk about the importance of an explicit API and whether dynamics in C# can convey a usable API to the developer.</itunes:summary>
+    </item>
+    <item>
+      <title>jQuery Garage, with Dave Ward: When Things Go Wrong: The Silent Fail</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/6/file.mp4?token=????</link>
+      <description>Rob has a problem: jQuery doesn't seem to be working. Document.ready() is failing to run which is cascading several other errors. How do you troubleshoot this kind of thing? Call Batman.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/6/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 20 May 2013 19:27:17 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/6/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Rob has a problem: jQuery doesn't seem to be working. Document.ready() is failing to run which is cascading several other errors. How do you troubleshoot this kind of thing? Call Batman.</itunes:subtitle>
+      <itunes:summary>Rob has a problem: jQuery doesn't seem to be working. Document.ready() is failing to run which is cascading several other errors. How do you troubleshoot this kind of thing? Call Batman.</itunes:summary>
+    </item>
+    <item>
+      <title>Mystery Code Theater, with Ayende Rahien: Massive, Part 1</title>
+      <link>http://delivery.tekpub.com/shows/download/mct/5/file.mp4?token=????</link>
+      <description>In this episode the tables are turned: Ayende reviews Rob's Micro-ORM project named &quot;Massive&quot;. It's only 600 lines of code, but there's plenty for Ayende to gasp about here...</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/mct/5/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 15 May 2013 02:26:42 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/mct/5/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>In this episode the tables are turned: Ayende reviews Rob's Micro-ORM project named &quot;Massive&quot;. It's only 600 lines of code, but there's plenty for Ayende to gasp about here...</itunes:subtitle>
+      <itunes:summary>In this episode the tables are turned: Ayende reviews Rob's Micro-ORM project named &quot;Massive&quot;. It's only 600 lines of code, but there's plenty for Ayende to gasp about here...</itunes:summary>
+    </item>
+    <item>
+      <title>The Source, with Scott Hanselman: ScriptCS</title>
+      <link>http://delivery.tekpub.com/shows/download/the_source/6/file.mp4?token=????</link>
+      <description>ScriptCS allows you to use C# as if it were a scripting language using Roslyn, .NET's &quot;compiler as a service&quot;. In this episode Scott shows the flexibility of using ScriptCS together with Chocolatey - an Open Source package installer that works with NuGet.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/the_source/6/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 29 Apr 2013 18:32:51 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/the_source/6/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>scriptcs</itunes:keywords>
+      <itunes:subtitle>ScriptCS allows you to use C# as if it were a scripting language using Roslyn, .NET's &quot;compiler as a service&quot;. In this episode Scott shows the flexibility of using ScriptCS together with Chocolatey - an Open Source package installer that works with NuGet.</itunes:subtitle>
+      <itunes:summary>ScriptCS allows you to use C# as if it were a scripting language using Roslyn, .NET's &quot;compiler as a service&quot;. In this episode Scott shows the flexibility of using ScriptCS together with Chocolatey - an Open Source package installer that works with NuGet.</itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: String Format Stumper</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/7/file.mp4?token=????</link>
+      <description>This time we flip the tables and review a question that Jon himself asked. Once again, it's on strings and the weirdness of using String.Format in C#, UTF-8, and i18n.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/7/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 22 Apr 2013 19:47:11 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/7/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>This time we flip the tables and review a question that Jon himself asked. Once again, it's on strings and the weirdness of using String.Format in C#, UTF-8, and i18n.</itunes:subtitle>
+      <itunes:summary>This time we flip the tables and review a question that Jon himself asked. Once again, it's on strings and the weirdness of using String.Format in C#, UTF-8, and i18n.</itunes:summary>
+    </item>
+    <item>
+      <title>The Data-Side: Using Trace Flags with SQL Server</title>
+      <link>http://delivery.tekpub.com/shows/download/dataside/5/file.mp4?token=????</link>
+      <description>Ever need to troubleshoot a deadlock or some other problem with SQL Server? Trace flags are a great way to &quot;debug&quot; SQL Server - and Rob Sullivan shows us how!</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/dataside/5/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Tue, 09 Apr 2013 21:06:16 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/dataside/5/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>sqlserver</itunes:keywords>
+      <itunes:subtitle>Ever need to troubleshoot a deadlock or some other problem with SQL Server? Trace flags are a great way to &quot;debug&quot; SQL Server - and Rob Sullivan shows us how!</itunes:subtitle>
+      <itunes:summary>Ever need to troubleshoot a deadlock or some other problem with SQL Server? Trace flags are a great way to &quot;debug&quot; SQL Server - and Rob Sullivan shows us how!</itunes:summary>
+    </item>
+    <item>
+      <title>New, Shiny! with Peter Cooper: Code Highlighting with Rouge</title>
+      <link>http://delivery.tekpub.com/shows/download/shiney/3/file.mp4?token=????</link>
+      <description>Rob and Peter take a look at the Ruby code-highlighting utility called &quot;Rouge&quot;. The standard has been Pygments - but it has a Python dependency. If you want an all-Ruby solution you should see Rouge.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/shiney/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Tue, 02 Apr 2013 18:54:50 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/shiney/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>ruby pygments code</itunes:keywords>
+      <itunes:subtitle>Rob and Peter take a look at the Ruby code-highlighting utility called &quot;Rouge&quot;. The standard has been Pygments - but it has a Python dependency. If you want an all-Ruby solution you should see Rouge.</itunes:subtitle>
+      <itunes:summary>Rob and Peter take a look at the Ruby code-highlighting utility called &quot;Rouge&quot;. The standard has been Pygments - but it has a Python dependency. If you want an all-Ruby solution you should see Rouge.</itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: String Injection Attack!</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/6/file.mp4?token=????</link>
+      <description>A test assertion blows up and weird results start coming back - and the stack trace is meaningless! Could it be a bug in .NET! Possibly - see how Jon sleuths this strange string formatting error with Visual Studio test assertions...</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/6/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 13 Mar 2013 20:04:26 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/6/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>csharp strings</itunes:keywords>
+      <itunes:subtitle>A test assertion blows up and weird results start coming back - and the stack trace is meaningless! Could it be a bug in .NET! Possibly - see how Jon sleuths this strange string formatting error with Visual Studio test assertions...</itunes:subtitle>
+      <itunes:summary>A test assertion blows up and weird results start coming back - and the stack trace is meaningless! Could it be a bug in .NET! Possibly - see how Jon sleuths this strange string formatting error with Visual Studio test assertions...</itunes:summary>
+    </item>
+    <item>
+      <title>The Source, with Scott Hanselman: A Look at F-Sharp</title>
+      <link>http://delivery.tekpub.com/shows/download/the_source/5/file.mp4?token=????</link>
+      <description>In this episode Rob and Scott take a look at WebSharper, an F# transpiler for Javascript. Along the way they muse on whether every language should have a web framework.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/the_source/5/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Thu, 07 Mar 2013 22:02:34 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/the_source/5/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>f-sharp get-off-my-lawn</itunes:keywords>
+      <itunes:subtitle>In this episode Rob and Scott take a look at WebSharper, an F# transpiler for Javascript. Along the way they muse on whether every language should have a web framework.</itunes:subtitle>
+      <itunes:summary>In this episode Rob and Scott take a look at WebSharper, an F# transpiler for Javascript. Along the way they muse on whether every language should have a web framework.</itunes:summary>
+    </item>
+    <item>
+      <title>jQuery Garage, with Dave Ward: Breaking Things With 1.9, and Then Fixing</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/5/file.mp4?token=????</link>
+      <description>There are some things that are going to break with jQuery 1.9 and in this episode Dave shows us the most common problems you'll run into - as well as a little trick for avoiding lots of pain!</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/5/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 04 Mar 2013 19:56:03 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/5/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>jquery breaking change</itunes:keywords>
+      <itunes:subtitle>There are some things that are going to break with jQuery 1.9 and in this episode Dave shows us the most common problems you'll run into - as well as a little trick for avoiding lots of pain!</itunes:subtitle>
+      <itunes:summary>There are some things that are going to break with jQuery 1.9 and in this episode Dave shows us the most common problems you'll run into - as well as a little trick for avoiding lots of pain!</itunes:summary>
+    </item>
+    <item>
+      <title>The Drawing Board: RethinkDB</title>
+      <link>http://delivery.tekpub.com/shows/download/drawing_board/5/file.mp4?token=????</link>
+      <description>RethinkDB is gaining many fans in the document database world due to it's ease of use, management (with tasks such as sharding and replication), and it's incredibly flexible querying capacity. Come see why many refer to RethinkDB as &quot;MongoDB done right&quot;</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/drawing_board/5/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 27 Feb 2013 22:40:46 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/drawing_board/5/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nosql document-database</itunes:keywords>
+      <itunes:subtitle>RethinkDB is gaining many fans in the document database world due to it's ease of use, management (with tasks such as sharding and replication), and it's incredibly flexible querying capacity. Come see why many refer to RethinkDB as &quot;MongoDB done right&quot;</itunes:subtitle>
+      <itunes:summary>RethinkDB is gaining many fans in the document database world due to it's ease of use, management (with tasks such as sharding and replication), and it's incredibly flexible querying capacity. Come see why many refer to RethinkDB as &quot;MongoDB done right&quot;</itunes:summary>
+    </item>
+    <item>
+      <title>Peer Pressure, with Rob Sullivan: Ruby and Exceptions</title>
+      <link>http://delivery.tekpub.com/shows/download/peer_pressure/1/file.mp4?token=????</link>
+      <description>Ruby is an interesting language, but how do you trap exceptions? What is an exception anyway and how do you raise one by hand? Rob sits with Amir Rajan and goofs around with Ruby, making it break.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/peer_pressure/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 20 Feb 2013 00:01:18 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/peer_pressure/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>ruby exceptions sullivan</itunes:keywords>
+      <itunes:subtitle>Ruby is an interesting language, but how do you trap exceptions? What is an exception anyway and how do you raise one by hand? Rob sits with Amir Rajan and goofs around with Ruby, making it break.</itunes:subtitle>
+      <itunes:summary>Ruby is an interesting language, but how do you trap exceptions? What is an exception anyway and how do you raise one by hand? Rob sits with Amir Rajan and goofs around with Ruby, making it break.</itunes:summary>
+    </item>
+    <item>
+      <title>Mystery Code Theater, with Ayende Rahien: Orchard Data Review</title>
+      <link>http://delivery.tekpub.com/shows/download/mct/4/file.mp4?token=????</link>
+      <description>In this episode Ayende decides to hook up NHProfiler to see what's going on with the data bits. If there's a problem to be found, data access is usually where you'll find it. And find it he does... </description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/mct/4/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 16 Feb 2013 21:08:07 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/mct/4/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>orchard complexity nhibernate</itunes:keywords>
+      <itunes:subtitle>In this episode Ayende decides to hook up NHProfiler to see what's going on with the data bits. If there's a problem to be found, data access is usually where you'll find it. And find it he does... </itunes:subtitle>
+      <itunes:summary>In this episode Ayende decides to hook up NHProfiler to see what's going on with the data bits. If there's a problem to be found, data access is usually where you'll find it. And find it he does... </itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: Confused by Confusion</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/5/file.mp4?token=????</link>
+      <description>In this episode Jon tackles strings in Java, decides he's wrong, then decides he might be right. Then wrong, then right again. We get to go along with him as he dives into this Java string issue.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/5/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Tue, 12 Feb 2013 19:15:50 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/5/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>strings java</itunes:keywords>
+      <itunes:subtitle>In this episode Jon tackles strings in Java, decides he's wrong, then decides he might be right. Then wrong, then right again. We get to go along with him as he dives into this Java string issue.</itunes:subtitle>
+      <itunes:summary>In this episode Jon tackles strings in Java, decides he's wrong, then decides he might be right. Then wrong, then right again. We get to go along with him as he dives into this Java string issue.</itunes:summary>
+    </item>
+    <item>
+      <title>The Source, with Scott Hanselman: ReactiveUI: Pair Coding with Paul Betts</title>
+      <link>http://delivery.tekpub.com/shows/download/the_source/4/file.mp4?token=????</link>
+      <description>Scott is building a Windows Phone application and has run into some problems. Paul Betts (from Github) decided to help out using Akavache - an Open Source library of his. We recorded the pair session and hope you enjoy it.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/the_source/4/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Fri, 01 Feb 2013 23:54:28 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/the_source/4/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>windows-phone-7 hanselman reactiveui</itunes:keywords>
+      <itunes:subtitle>Scott is building a Windows Phone application and has run into some problems. Paul Betts (from Github) decided to help out using Akavache - an Open Source library of his. We recorded the pair session and hope you enjoy it.</itunes:subtitle>
+      <itunes:summary>Scott is building a Windows Phone application and has run into some problems. Paul Betts (from Github) decided to help out using Akavache - an Open Source library of his. We recorded the pair session and hope you enjoy it.</itunes:summary>
+    </item>
+    <item>
+      <title>The Drawing Board: Cloudant</title>
+      <link>http://delivery.tekpub.com/shows/download/drawing_board/4/file.mp4?token=????</link>
+      <description>Cloudant is a compelling database-as-a-service company that uses CouchDB and Lucene to deliver a high-capacity, fault-tolerant data solution for needs of any size. Buzzwords aside, this is a very interesting company that's doing some incredible work.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/drawing_board/4/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 23 Jan 2013 00:11:38 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/drawing_board/4/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nosql couchdb database-as-service</itunes:keywords>
+      <itunes:subtitle>Cloudant is a compelling database-as-a-service company that uses CouchDB and Lucene to deliver a high-capacity, fault-tolerant data solution for needs of any size. Buzzwords aside, this is a very interesting company that's doing some incredible work.</itunes:subtitle>
+      <itunes:summary>Cloudant is a compelling database-as-a-service company that uses CouchDB and Lucene to deliver a high-capacity, fault-tolerant data solution for needs of any size. Buzzwords aside, this is a very interesting company that's doing some incredible work.</itunes:summary>
+    </item>
+    <item>
+      <title>The Data-Side: A DBA's Look at Redis</title>
+      <link>http://delivery.tekpub.com/shows/download/dataside/4/file.mp4?token=????</link>
+      <description>In this episode &quot;Rob the Lesser&quot; (Rob Sullivan) digs into Redis - a super fast key/value store that leaves many developers foaming at the mouth. Hoping to avoid this fandom, Rob S puts Redis through it's paces...</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/dataside/4/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 16 Jan 2013 23:46:30 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/dataside/4/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>redis sinatra</itunes:keywords>
+      <itunes:subtitle>In this episode &quot;Rob the Lesser&quot; (Rob Sullivan) digs into Redis - a super fast key/value store that leaves many developers foaming at the mouth. Hoping to avoid this fandom, Rob S puts Redis through it's paces...</itunes:subtitle>
+      <itunes:summary>In this episode &quot;Rob the Lesser&quot; (Rob Sullivan) digs into Redis - a super fast key/value store that leaves many developers foaming at the mouth. Hoping to avoid this fandom, Rob S puts Redis through it's paces...</itunes:summary>
+    </item>
+    <item>
+      <title>New, Shiny! with Peter Cooper: First Look: Redis</title>
+      <link>http://delivery.tekpub.com/shows/download/shiney/2/file.mp4?token=????</link>
+      <description>In this episode Peter and Rob take a cursory look at Redis and how you can use it in various applications. In addition we show some supporting libraries for ASP.NET, Rails, and Node</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/shiney/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 12 Jan 2013 02:32:18 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/shiney/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>redis database</itunes:keywords>
+      <itunes:subtitle>In this episode Peter and Rob take a cursory look at Redis and how you can use it in various applications. In addition we show some supporting libraries for ASP.NET, Rails, and Node</itunes:subtitle>
+      <itunes:summary>In this episode Peter and Rob take a cursory look at Redis and how you can use it in various applications. In addition we show some supporting libraries for ASP.NET, Rails, and Node</itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: Fiji Time</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/4/file.mp4?token=????</link>
+      <description>In this episode, Jon fields a Java question relating to Timezone offsets - and finds out that Java is in fact wrong!</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/4/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 07 Jan 2013 19:31:20 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/4/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>timezones csharp java noda</itunes:keywords>
+      <itunes:subtitle>In this episode, Jon fields a Java question relating to Timezone offsets - and finds out that Java is in fact wrong!</itunes:subtitle>
+      <itunes:summary>In this episode, Jon fields a Java question relating to Timezone offsets - and finds out that Java is in fact wrong!</itunes:summary>
+    </item>
+    <item>
+      <title>jQuery Garage, with Dave Ward: Event Weirdness</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/4/file.mp4?token=????</link>
+      <description>In this episode we take a look at a weird situation that can arise from dynamically generated DOM elements, and holding a jQuery object in memory.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/4/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 05 Jan 2013 01:50:34 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/4/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>backbone delegation events</itunes:keywords>
+      <itunes:subtitle>In this episode we take a look at a weird situation that can arise from dynamically generated DOM elements, and holding a jQuery object in memory.</itunes:subtitle>
+      <itunes:summary>In this episode we take a look at a weird situation that can arise from dynamically generated DOM elements, and holding a jQuery object in memory.</itunes:summary>
+    </item>
+    <item>
+      <title>The Source, with Scott Hanselman: Static Sites with Docpad</title>
+      <link>http://delivery.tekpub.com/shows/download/the_source/3/file.mp4?token=????</link>
+      <description>In this episode Scott and Rob take a look at Docpad, a static site generator for NodeJS. We kick up a site, look at how it works, and have a discussion about the relevance of static sites in general.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/the_source/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 02 Jan 2013 01:51:39 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/the_source/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>backbone docpad node cms coffeescript</itunes:keywords>
+      <itunes:subtitle>In this episode Scott and Rob take a look at Docpad, a static site generator for NodeJS. We kick up a site, look at how it works, and have a discussion about the relevance of static sites in general.</itunes:subtitle>
+      <itunes:summary>In this episode Scott and Rob take a look at Docpad, a static site generator for NodeJS. We kick up a site, look at how it works, and have a discussion about the relevance of static sites in general.</itunes:summary>
+    </item>
+    <item>
+      <title>Mystery Code Theater, with Ayende Rahien: What's Up, Orchard?</title>
+      <link>http://delivery.tekpub.com/shows/download/mct/3/file.mp4?token=????</link>
+      <description>In this episode we dig into OrchardCMS, an open source CMS application from the ASP team at Microsoft. Oren starts out incredulous, we invite the project lead to comment on some &quot;interesting&quot; aspects, and in the end, Oren changes his mind.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/mct/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 31 Dec 2012 23:54:20 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/mct/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>ayende threading orchard complexity async</itunes:keywords>
+      <itunes:subtitle>In this episode we dig into OrchardCMS, an open source CMS application from the ASP team at Microsoft. Oren starts out incredulous, we invite the project lead to comment on some &quot;interesting&quot; aspects, and in the end, Oren changes his mind.</itunes:subtitle>
+      <itunes:summary>In this episode we dig into OrchardCMS, an open source CMS application from the ASP team at Microsoft. Oren starts out incredulous, we invite the project lead to comment on some &quot;interesting&quot; aspects, and in the end, Oren changes his mind.</itunes:summary>
+    </item>
+    <item>
+      <title>New, Shiny! with Peter Cooper: Minitest Reporters</title>
+      <link>http://delivery.tekpub.com/shows/download/shiney/1/file.mp4?token=????</link>
+      <description>In this, our first show, Peter and Rob talk about Minitest Reporters - a project that lets you bolt on different ways of looking at your Minitest results.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/shiney/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Fri, 14 Dec 2012 21:50:28 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/shiney/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>rails minitest unit-test ruby</itunes:keywords>
+      <itunes:subtitle>In this, our first show, Peter and Rob talk about Minitest Reporters - a project that lets you bolt on different ways of looking at your Minitest results.</itunes:subtitle>
+      <itunes:summary>In this, our first show, Peter and Rob talk about Minitest Reporters - a project that lets you bolt on different ways of looking at your Minitest results.</itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: Three Layers of Evil</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/3/file.mp4?token=????</link>
+      <description>In this episode Jon tackles a seemingly crazy question about Mutability with Structs in C#, and next we find ourselves tearing apart the code with 3 different compilers, contrasting IL only to find a possible compiler bug!</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 10 Dec 2012 20:28:56 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>csharp structs mutablity decompilers</itunes:keywords>
+      <itunes:subtitle>In this episode Jon tackles a seemingly crazy question about Mutability with Structs in C#, and next we find ourselves tearing apart the code with 3 different compilers, contrasting IL only to find a possible compiler bug!</itunes:subtitle>
+      <itunes:summary>In this episode Jon tackles a seemingly crazy question about Mutability with Structs in C#, and next we find ourselves tearing apart the code with 3 different compilers, contrasting IL only to find a possible compiler bug!</itunes:summary>
+    </item>
+    <item>
+      <title>The Drawing Board: ActiveAdmin</title>
+      <link>http://delivery.tekpub.com/shows/download/drawing_board/3/file.mp4?token=????</link>
+      <description>I first learned about ActiveAdmin from Ryan Bates and RailsCasts. I've been using it since with Tekpub.com and it's an amazing tool for adding business process and administration outside the Rails scaffold.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/drawing_board/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Tue, 04 Dec 2012 02:38:12 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/drawing_board/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>rails admin</itunes:keywords>
+      <itunes:subtitle>I first learned about ActiveAdmin from Ryan Bates and RailsCasts. I've been using it since with Tekpub.com and it's an amazing tool for adding business process and administration outside the Rails scaffold.</itunes:subtitle>
+      <itunes:summary>I first learned about ActiveAdmin from Ryan Bates and RailsCasts. I've been using it since with Tekpub.com and it's an amazing tool for adding business process and administration outside the Rails scaffold.</itunes:summary>
+    </item>
+    <item>
+      <title>Mystery Code Theater, with Ayende Rahien: Threading Hell</title>
+      <link>http://delivery.tekpub.com/shows/download/mct/2/file.mp4?token=????</link>
+      <description>We've all heard, many times, how poor thread management can crash an application. But what if it's out of your control? What if you use a library that uses prehistoric methods for managing threads? That happened to Ayende, and he wasn't happy about it...</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/mct/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Thu, 29 Nov 2012 23:33:12 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/mct/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>threading tpl parallel ravendb</itunes:keywords>
+      <itunes:subtitle>We've all heard, many times, how poor thread management can crash an application. But what if it's out of your control? What if you use a library that uses prehistoric methods for managing threads? That happened to Ayende, and he wasn't happy about it...</itunes:subtitle>
+      <itunes:summary>We've all heard, many times, how poor thread management can crash an application. But what if it's out of your control? What if you use a library that uses prehistoric methods for managing threads? That happened to Ayende, and he wasn't happy about it...</itunes:summary>
+    </item>
+    <item>
+      <title>The Data-Side: The Normalizing Process</title>
+      <link>http://delivery.tekpub.com/shows/download/dataside/3/file.mp4?token=????</link>
+      <description>Normalizing a load of flat data can be a chore - watch how Rob S (a DBA) and Rob C (a Dev/Wannabe DBA) contrive to build a big flat CSV dump into a usable, relational system.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/dataside/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 28 Nov 2012 20:45:28 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/dataside/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>sql-server constraints naming</itunes:keywords>
+      <itunes:subtitle>Normalizing a load of flat data can be a chore - watch how Rob S (a DBA) and Rob C (a Dev/Wannabe DBA) contrive to build a big flat CSV dump into a usable, relational system.</itunes:subtitle>
+      <itunes:summary>Normalizing a load of flat data can be a chore - watch how Rob S (a DBA) and Rob C (a Dev/Wannabe DBA) contrive to build a big flat CSV dump into a usable, relational system.</itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: Who's Got the Biggest Shoes?</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/2/file.mp4?token=????</link>
+      <description>It seems not a week goes by without someone asking about string performance on Stack Overflow. In this episode, Jon shows why it's a bad idea to focus on this, forgetting all else.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Thu, 22 Nov 2012 03:16:19 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>performance C# strings</itunes:keywords>
+      <itunes:subtitle>It seems not a week goes by without someone asking about string performance on Stack Overflow. In this episode, Jon shows why it's a bad idea to focus on this, forgetting all else.</itunes:subtitle>
+      <itunes:summary>It seems not a week goes by without someone asking about string performance on Stack Overflow. In this episode, Jon shows why it's a bad idea to focus on this, forgetting all else.</itunes:summary>
+    </item>
+    <item>
+      <title>The Source, with Scott Hanselman: Epicyclic Gearing, SVG, and D3.js</title>
+      <link>http://delivery.tekpub.com/shows/download/the_source/2/file.mp4?token=????</link>
+      <description>HTML5 let's you do a lot of things - including some incredible animations with vector graphics. In this episode Scott dives into D3.js - a library for leveraging SVG in order to create amazingly interactive graphics and charts.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/the_source/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Wed, 21 Nov 2012 23:23:38 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/the_source/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>javascript d3 svg</itunes:keywords>
+      <itunes:subtitle>HTML5 let's you do a lot of things - including some incredible animations with vector graphics. In this episode Scott dives into D3.js - a library for leveraging SVG in order to create amazingly interactive graphics and charts.</itunes:subtitle>
+      <itunes:summary>HTML5 let's you do a lot of things - including some incredible animations with vector graphics. In this episode Scott dives into D3.js - a library for leveraging SVG in order to create amazingly interactive graphics and charts.</itunes:summary>
+    </item>
+    <item>
+      <title>The Source, with Scott Hanselman: SSL and Redirects</title>
+      <link>http://delivery.tekpub.com/shows/download/the_source/1/file.mp4?token=????</link>
+      <description>In this episode we take a look at what happens when you issue a redirect to the browser, and how various frameworks help you out by redirecting clients for you when the request should be under https.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/the_source/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 17 Nov 2012 01:31:08 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/the_source/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>aspmvc ssl rails3 301 302</itunes:keywords>
+      <itunes:subtitle>In this episode we take a look at what happens when you issue a redirect to the browser, and how various frameworks help you out by redirecting clients for you when the request should be under https.</itunes:subtitle>
+      <itunes:summary>In this episode we take a look at what happens when you issue a redirect to the browser, and how various frameworks help you out by redirecting clients for you when the request should be under https.</itunes:summary>
+    </item>
+    <item>
+      <title>Mystery Code Theater, with Ayende Rahien: Looking at the Abstract Factory</title>
+      <link>http://delivery.tekpub.com/shows/download/mct/1/file.mp4?token=????</link>
+      <description>In this episode Ayende dives into the AbstractFactory pattern and dissects its relevance, given the changes in programming languages over the past few years.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/mct/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Thu, 15 Nov 2012 02:22:53 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/mct/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>patterns csharp ayende</itunes:keywords>
+      <itunes:subtitle>In this episode Ayende dives into the AbstractFactory pattern and dissects its relevance, given the changes in programming languages over the past few years.</itunes:subtitle>
+      <itunes:summary>In this episode Ayende dives into the AbstractFactory pattern and dissects its relevance, given the changes in programming languages over the past few years.</itunes:summary>
+    </item>
+    <item>
+      <title>jQuery Garage, with Dave Ward: Promises, Promises</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/3/file.mp4?token=????</link>
+      <description>In this episode Dave shows how to accomplish parallel execution of two AJAX calls - awaiting the finish and executing a callback when both tasks have completed</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/3/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Tue, 13 Nov 2012 20:03:03 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/3/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>jquery promise getJSON deferred webmatrix</itunes:keywords>
+      <itunes:subtitle>In this episode Dave shows how to accomplish parallel execution of two AJAX calls - awaiting the finish and executing a callback when both tasks have completed</itunes:subtitle>
+      <itunes:summary>In this episode Dave shows how to accomplish parallel execution of two AJAX calls - awaiting the finish and executing a callback when both tasks have completed</itunes:summary>
+    </item>
+    <item>
+      <title>The Drawing Board: The Stripe Button, Part 2</title>
+      <link>http://delivery.tekpub.com/shows/download/drawing_board/2/file.mp4?token=????</link>
+      <description>In this episode we leverage what we did in episode 1 - but move beyond demo silliness and into the realm of doing something useful. We plug in Knockout JS to improve usability, handle errors, and love your user.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/drawing_board/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 10 Nov 2012 04:24:39 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/drawing_board/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>javascript stripe ecommerce aspmvc knockout</itunes:keywords>
+      <itunes:subtitle>In this episode we leverage what we did in episode 1 - but move beyond demo silliness and into the realm of doing something useful. We plug in Knockout JS to improve usability, handle errors, and love your user.</itunes:subtitle>
+      <itunes:summary>In this episode we leverage what we did in episode 1 - but move beyond demo silliness and into the realm of doing something useful. We plug in Knockout JS to improve usability, handle errors, and love your user.</itunes:summary>
+    </item>
+    <item>
+      <title>The Drawing Board: The Stripe Button, Part 1</title>
+      <link>http://delivery.tekpub.com/shows/download/drawing_board/1/file.mp4?token=????</link>
+      <description>In this episode Rob Conery shows you how to plugin the Stripe Button - an simple checkout widget that hooks up directly to Stripe: our favorite payment processor.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/drawing_board/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Thu, 08 Nov 2012 23:10:17 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/drawing_board/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>aspnetmvc stripe ecommerce</itunes:keywords>
+      <itunes:subtitle>In this episode Rob Conery shows you how to plugin the Stripe Button - an simple checkout widget that hooks up directly to Stripe: our favorite payment processor.</itunes:subtitle>
+      <itunes:summary>In this episode Rob Conery shows you how to plugin the Stripe Button - an simple checkout widget that hooks up directly to Stripe: our favorite payment processor.</itunes:summary>
+    </item>
+    <item>
+      <title>jQuery Garage, with Dave Ward: DOM Traversal Using closest and parent</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/2/file.mp4?token=????</link>
+      <description>In this episode we pick up where we left off - showing you how to trigger an event from one element and traverse back up the DOM to make something happen on another element - even if its dynamic.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 29 Oct 2012 19:19:48 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>jquery dom closest parent</itunes:keywords>
+      <itunes:subtitle>In this episode we pick up where we left off - showing you how to trigger an event from one element and traverse back up the DOM to make something happen on another element - even if its dynamic.</itunes:subtitle>
+      <itunes:summary>In this episode we pick up where we left off - showing you how to trigger an event from one element and traverse back up the DOM to make something happen on another element - even if its dynamic.</itunes:summary>
+    </item>
+    <item>
+      <title>jQuery Garage, with Dave Ward: Event Delegation using On</title>
+      <link>http://delivery.tekpub.com/shows/download/jquery_garage/1/file.mp4?token=????</link>
+      <description>In this episode Dave shows us how the &quot;on&quot; keyword in jQuery is under-used, and why it's important to start using it now as &quot;click&quot; and &quot;bind&quot; will be deprecated soon.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/jquery_garage/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Fri, 26 Oct 2012 22:12:23 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/jquery_garage/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>jquery delegation</itunes:keywords>
+      <itunes:subtitle>In this episode Dave shows us how the &quot;on&quot; keyword in jQuery is under-used, and why it's important to start using it now as &quot;click&quot; and &quot;bind&quot; will be deprecated soon.</itunes:subtitle>
+      <itunes:summary>In this episode Dave shows us how the &quot;on&quot; keyword in jQuery is under-used, and why it's important to start using it now as &quot;click&quot; and &quot;bind&quot; will be deprecated soon.</itunes:summary>
+    </item>
+    <item>
+      <title>The Data-Side: Importing Data</title>
+      <link>http://delivery.tekpub.com/shows/download/dataside/2/file.mp4?token=????</link>
+      <description>It seems like it should be simple, but it rarely ever goes as planned (formatting issues, encoding, bad data...). In this episode Rob Sullivan shows us how to import data into SQL Server and, as does happen, we run into problems.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/dataside/2/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Tue, 23 Oct 2012 20:58:13 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/dataside/2/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>sql-server import csv excel</itunes:keywords>
+      <itunes:subtitle>It seems like it should be simple, but it rarely ever goes as planned (formatting issues, encoding, bad data...). In this episode Rob Sullivan shows us how to import data into SQL Server and, as does happen, we run into problems.</itunes:subtitle>
+      <itunes:summary>It seems like it should be simple, but it rarely ever goes as planned (formatting issues, encoding, bad data...). In this episode Rob Sullivan shows us how to import data into SQL Server and, as does happen, we run into problems.</itunes:summary>
+    </item>
+    <item>
+      <title>The Data-Side: Snapshot Isolation</title>
+      <link>http://delivery.tekpub.com/shows/download/dataside/1/file.mp4?token=????</link>
+      <description>In this episode Rob Sullivan shows how to use Snapshot Isolation in SQL Server 2012 (it's is also available in other editions). Learn how to get around NOLOCK so you can read and write data without locking rows.</description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/dataside/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Mon, 22 Oct 2012 23:11:02 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/dataside/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>sql-server</itunes:keywords>
+      <itunes:subtitle>In this episode Rob Sullivan shows how to use Snapshot Isolation in SQL Server 2012 (it's is also available in other editions). Learn how to get around NOLOCK so you can read and write data without locking rows.</itunes:subtitle>
+      <itunes:summary>In this episode Rob Sullivan shows how to use Snapshot Isolation in SQL Server 2012 (it's is also available in other editions). Learn how to get around NOLOCK so you can read and write data without locking rows.</itunes:summary>
+    </item>
+    <item>
+      <title>StackOverflow Question of the Week, with Jon Skeet: Bang In Brazil</title>
+      <link>http://delivery.tekpub.com/shows/download/so_skeet/1/file.mp4?token=????</link>
+      <description>In this episode, our first, Jon starts things off by sleuthing out a rather hairy Date/Timezone bug which, evidently, only happens in Brazil. To make matters even more interesting, the code is written in Objective-C on iOS6! </description>
+      <enclosure url="http://delivery.tekpub.com/shows/download/so_skeet/1/file.mp4?token=????"
+        length="30"
+        type="video/mp4"/>
+      <pubDate>Sat, 20 Oct 2012 01:16:17 -0000</pubDate>
+      <guid isPermaLink="true">http://delivery.tekpub.com/shows/download/so_skeet/1/file.mp4?token=????</guid>
+      <itunes:author>Tekpub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>timezones brazil ios6</itunes:keywords>
+      <itunes:subtitle>In this episode, our first, Jon starts things off by sleuthing out a rather hairy Date/Timezone bug which, evidently, only happens in Brazil. To make matters even more interesting, the code is written in Objective-C on iOS6! </itunes:subtitle>
+      <itunes:summary>In this episode, our first, Jon starts things off by sleuthing out a rather hairy Date/Timezone bug which, evidently, only happens in Brazil. To make matters even more interesting, the code is written in Objective-C on iOS6! </itunes:summary>
+    </item>
+    <itunes:category text="Education">
+      <itunes:category text="Education Technology"/>
+    </itunes:category>
+    <itunes:image href="http://tekpub.com/images/tekpub_tv_300.png"/>
+    <itunes:owner>
+      <itunes:name>Tekpub</itunes:name>
+      <itunes:email>support@tekpub.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Tekpub</itunes:author>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords>ruby, rails, asp.net, asp.net, mvc, node</itunes:keywords>
+    <itunes:subtitle>The TekpubTV Subscriber Feed</itunes:subtitle>
+    <itunes:summary>A feed for Tekpub Subscribers</itunes:summary>
+  </channel>
+</rss>
